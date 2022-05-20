@@ -7,6 +7,8 @@
     * Additional Features
       * Phone Verification
     * Bug Fix - 192x
+
+
 5/05/22 | Tool Update - [Discord-Account-Gen-Bot-V.1](https://github.com/Altify-Development/Discord-Account-Gen-Bot-V.1)
   - ReadME
   - JSON Reading SubSite fixed
